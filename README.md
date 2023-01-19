@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
+* I'm currently an ***Industrial Engineer***, learning data science.
 <!--
 **jholmesw/jholmesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
