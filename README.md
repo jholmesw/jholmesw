@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-* I'm currently an ***Industrial Engineer***, learning data science.
+* I'm an ***Industrial Engineer***, learning data science.
+* This profile is generally a grouping of my schoolwork projects.
+* I am also interested in targeting **Food Insecurity** and **Optimization** topics.
+
+
+* I enjoy learning **ALL** of the languages (Java, Python, R, MarkDown, Chinese, French, German, Japanese, Spanish).
 <!--
 **jholmesw/jholmesw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
